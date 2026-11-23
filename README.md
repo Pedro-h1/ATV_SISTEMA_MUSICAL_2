@@ -102,7 +102,6 @@
 
 **Acesso inicial do banco recém-criado:** usuário `admin` e senha `123`.
 
-</div>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5B21B6,100:8B5CF6&section=footer" width="100%" />
 </div>
