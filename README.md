@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+2+%C2%B7+Back-End+e+Database" alt="Objetivo do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo+do+Projeto" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
     <p>Implementar a parte funcional do Sistema Musical, conectando as páginas ao banco de dados e permitindo cadastrar, consultar, editar e excluir informações de artistas e músicas.</p>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+2+%C2%B7+Back-End+e+Database" alt="Funcionalidades" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+Funcionalidades" alt="Funcionalidades" />
 </div>
 <div align="center">
     <p>🔐 <strong>Login e sessão:</strong> autenticação de usuários e proteção das páginas internas.</p>
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+2+%C2%B7+Back-End+e+Database" alt="Arquivos do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%93%82+Arquivos+do+Projeto" alt="Arquivos do Projeto" />
 </div>
 <div align="center">
 
@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+2+%C2%B7+Back-End+e+Database" alt="Especificações Técnicas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" alt="Especificações Técnicas" />
 </div>
 <div align="center">
 
@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%F0%9F%8E%BC+Sistema+Musical+%E2%80%94+Parte+2+%C2%B7+Back-End+e+Database" alt="Como Executar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%96%B6%EF%B8%8F+Como+Executar" alt="Como Executar" />
 </div>
 
 1. Coloque os arquivos do projeto na pasta pública do Apache.
