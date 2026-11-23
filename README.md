@@ -71,8 +71,8 @@
 | Apache | Servidor local para executar o PHP |
 | Visual Studio Code | Ambiente de desenvolvimento |
 
-    <br>
-    <strong>Banco de Dados:</strong> `sistema_musical_v2`.
+<br>
+    <strong>Banco de Dados:</strong> `sistema_musical_v2`.<br>
     <strong>Ambiente de desenvolvimento:</strong> Apache, PHP e MySQL.
 </div>
 
@@ -82,15 +82,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%96%B6%EF%B8%8F+Como+Executar" alt="Como Executar" />
 </div>
 
-1. Coloque os arquivos do projeto na pasta pública do Apache.
-2. Configure usuário e senha do MySQL no arquivo `conexao.php`.
-3. Crie o banco `sistema_musical_v2` executando o arquivo `bd.sql` apenas na primeira configuração.
-4. Inicie o Apache e o MySQL.
-5. Acesse `http://localhost/` seguido do caminho da pasta do projeto e abra `login.php`.
+<div align="center">
+    1. Coloque os arquivos do projeto na pasta pública do Apache.<br>
+    2. Configure usuário e senha do MySQL no arquivo `conexao.php`.<br>
+    3. Crie o banco `sistema_musical_v2` executando o arquivo `bd.sql` apenas na primeira configuração.<br>
+    4. Inicie o Apache e o MySQL.<br>
+    5. Acesse `http://localhost/` seguido do caminho da pasta do projeto e abra `login.php`.<br><br>
+</div>
 
-<strong>Atenção:</strong> o arquivo `conexao.php` deste repositório contém um campo de exemplo (`SUA_SENHA_DO_MYSQL`). Substitua-o pela senha do seu ambiente local antes de executar. Não publique senhas reais.
+<div align="center">
+<strong>Atenção:</strong> o arquivo `conexao.php` deste repositório contém um campo de exemplo (`SUA_SENHA_DO_MYSQL`). Substitua-o pela senha do seu ambiente local antes de executar. Não publique senhas reais.<br><br>
 
 <strong>Acesso inicial do banco recém-criado:</strong> usuário `admin` e senha `123`.
+</div>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8B5CF6,100:21133F&section=footer" width="100%" />
